@@ -1,0 +1,19 @@
+body {
+  background-color: #cbd5e0;
+}
+#btn {
+  outline: none;
+}
+
+.description {
+  font-family: "Indie Flower", cursive;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  /background: transparent;
+}
